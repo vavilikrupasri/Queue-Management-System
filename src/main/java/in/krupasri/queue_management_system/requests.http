@@ -1,0 +1,31 @@
+#GET http://localhost:8080/api/tokens
+#Content-Type: application/json
+
+
+#PUT http://localhost:8080/api/tokens/call-next
+#Content-Type: application/json
+
+
+
+
+#GET http://localhost:8080/api/tokens/waiting
+#Content-Type: application/json
+
+
+
+
+
+#
+#GET http://localhost:8080/api/tokens/100
+#Content-Type: application/json
+
+
+
+#
+POST http://localhost:8080/api/customers
+Content-Type: application/json
+
+{
+  "name": "harshitha",
+  "phoneNumber": "9876543210"
+}
